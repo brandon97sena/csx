@@ -6,6 +6,7 @@ Actions you can perform on lists and dictionaries
 
 # the append method adds an item to the end of a list
 medals = ["gold", "silver"]
+print(medals)
 medals.append("bronze")
 print(medals)
 
@@ -13,6 +14,7 @@ print(medals)
 
 # the insert method adds an item to a specific index
 priority_list = ["go to sports practice", "hangout with friends", "talk to mom", "eat vegetables"]
+print(priority_list)
 priority_list.insert(2, "study computer science")
 print(priority_list)
 
@@ -20,6 +22,7 @@ print(priority_list)
 
 # the remove method will remove a specific item from a list
 fruits = ["apples", "oranges", "asparagus", "bananas"]
+print(fruits)
 fruits.remove("asparagus")
 print(fruits)
 
