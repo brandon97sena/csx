@@ -3,6 +3,7 @@ Personality questionnaire
 """
 
 # TODO: ask a user to input their full name and test it by entering lower case letters for your name
+# TODO: you will manipulate these inputs using the title function in this lesson.
 
 # TODO: write a program that asks a user 6 unique questions about them and see if it works!
 # TODO: use input functions however you would like (i.e. print question then get input, or include
