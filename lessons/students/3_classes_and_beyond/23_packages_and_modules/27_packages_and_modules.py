@@ -2,6 +2,8 @@
 Introduction to the packages Numpy, Pandas, Matplotlib, Scikit-Learn, Scipy, Asyncio and Time
 """
 
+# FIXME: explore pip
+
 # Packages are a really useful way to expand what your program is capable of
 # dealing with things like handling multi demensional arrays and table visualizations
 # are really hard to do with "vanilla" python (using plain code without packages)

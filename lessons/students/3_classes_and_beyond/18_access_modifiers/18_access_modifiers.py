@@ -6,7 +6,7 @@ Taking a more in depth look at classes
 
 # In object orientated programming, access modifiers are used to modify the default scope of
 # attributes and methods of a class. The purpose of access modifiers is to implement encapsulation.
-# Encapsulation refers to the wrapping of code and data together into a single unit. Doing so
+# Encapsulation refers to the bundling of data with the methods that operate on them. Doing so
 # restricts the access of certain variables and methods. Encapsulation can be thought of as a
 # protective shield that prevents data from being accessed by the code outside of this shield.
 
@@ -149,4 +149,4 @@ new_pet.printer()
 new_dog = Dog()
 new_dog.dog_printer()
 
-# TODO: Section 3 of TODO 17 (X min for students, Y min for demo)
+# TODO: TODO 18 (10 min for students, 6 min for demo)
